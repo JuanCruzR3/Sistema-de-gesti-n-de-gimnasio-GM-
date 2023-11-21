@@ -1,0 +1,46 @@
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).csproj.AssemblyReference.cache
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema_de_gestión_de_gimnasio__GM_.InicioSesion.resources
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema_de_gestión_de_gimnasio__GM_.Formularios.Menú.resources
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema_de_gestión_de_gimnasio__GM_.Properties.Resources.resources
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).csproj.GenerateResource.cache
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema_de_gestión_de_gimnasio__GM_.Formularios.Alumnos.resources
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Sistema de gestión de gimnasio (GM).exe.config
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Sistema de gestión de gimnasio (GM).exe
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Sistema de gestión de gimnasio (GM).pdb
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Dominio.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Guna.UI.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Controladora.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Dominio.pdb
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Controladora.pdb
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).csproj.CopyComplete
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).exe
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).pdb
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Capa soporte.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Capa soporte.pdb
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Sistema de gestión de gimnasio (GM).exe.config
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Sistema de gestión de gimnasio (GM).exe
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Sistema de gestión de gimnasio (GM).pdb
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Capa soporte.dll
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Dominio.dll
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Guna.UI.dll
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Controladora.dll
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Capa soporte.pdb
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Dominio.pdb
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\bin\Debug\Controladora.pdb
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema_de_gestión_de_gimnasio__GM_.Formularios.Alumnos.resources
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema_de_gestión_de_gimnasio__GM_.InicioSesion.resources
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema_de_gestión_de_gimnasio__GM_.Formularios.Menú.resources
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema_de_gestión_de_gimnasio__GM_.Properties.Resources.resources
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).csproj.GenerateResource.cache
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).csproj.CopyComplete
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).exe
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema de gestión de gimnasio (GM).pdb
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Sistema de gestión de gimnasio (GM)\obj\Debug\Sistema_de_gestión_de_gimnasio__GM_.Formularios.Rutinas.resources

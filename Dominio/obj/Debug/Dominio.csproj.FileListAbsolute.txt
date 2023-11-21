@@ -1,0 +1,22 @@
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Dominio.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Controladora.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Controladora.pdb
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\obj\Debug\Dominio.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Capa soporte.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Capa soporte.pdb
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Dominio.dll
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Dominio.pdb
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Controladora.dll
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Capa soporte.dll
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Controladora.pdb
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\bin\Debug\Capa soporte.pdb
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\obj\Debug\Dominio.csproj.CopyComplete
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\obj\Debug\Dominio.dll
+C:\Users\User\Desktop\Sistema de gestión de gimnasio (GM)\Dominio\obj\Debug\Dominio.pdb

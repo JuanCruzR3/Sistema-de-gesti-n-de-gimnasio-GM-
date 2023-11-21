@@ -1,0 +1,6 @@
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Capa soporte\bin\Debug\Capa soporte.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Capa soporte\bin\Debug\Capa soporte.pdb
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Capa soporte\obj\Debug\Capa soporte.csproj.AssemblyReference.cache
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Capa soporte\obj\Debug\Capa soporte.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Capa soporte\obj\Debug\Capa soporte.dll
+C:\Users\Windows 10 R.O.G\source\repos\Sistema de gestión de gimnasio (GM)\Capa soporte\obj\Debug\Capa soporte.pdb
